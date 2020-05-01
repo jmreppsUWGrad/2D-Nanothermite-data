@@ -1,0 +1,54 @@
+Post processing results:
+..\Nanothermite\Data\gas\Al\3
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.060002
+     Mass balance residual: -0.000
+Time = 0.120002
+     Mass balance residual: -0.000
+Time = 0.124604
+     Mass balance residual: -0.000
+Time = 0.180001
+     Mass balance residual: -0.002
+Time = 0.240001
+     Mass balance residual: -0.005
+Time = 0.300001
+     Mass balance residual: -0.013
+Time = 0.360002
+     Mass balance residual: -0.024
+Time = 0.420000
+     Mass balance residual: -0.034
+Time = 0.480001
+     Mass balance residual: -0.044
+Time = 0.540001
+     Mass balance residual: -0.054
+Time = 0.600002
+     Mass balance residual: -0.064
+Time = 0.660000
+     Mass balance residual: -0.075
+Time = 0.720001
+     Mass balance residual: -0.087
+Time = 0.780002
+     Mass balance residual: -0.099
+Time = 0.840002
+     Mass balance residual: -0.111
+Time = 0.900001
+     Mass balance residual: -0.124
+Time = 0.960001
+     Mass balance residual: -0.136
+Time = 1.020002
+     Mass balance residual: -0.149
+Time = 1.080000
+     Mass balance residual: -0.163
+Time = 1.140001
+     Mass balance residual: -0.186
+Time = 1.200002
+     Mass balance residual: -0.204
+Max pressure: 935787150
+avg rho_g: 142.1198
+avg Darcy v: 0.2209
+Pe_y: 0.000000061709
+Da_y: 1563641746.854182
+Burn rate: 311236.121392
+Ignition delay: 0.000390
