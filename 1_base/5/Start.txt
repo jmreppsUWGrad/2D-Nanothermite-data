@@ -150,7 +150,7 @@ bc_north_P:P,101319,0,100
 Nodes_x:224
 Nodes_y:1340
 bc_north_E:F, 400e6, 0, 45,C, 5, 293, 45, 224
-Ignition:10,40
+Ignition:20,40
 Fo:0.1
 CFL:0.1
 dt:None
