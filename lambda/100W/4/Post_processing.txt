@@ -1,0 +1,97 @@
+Post processing results:
+..\Nanothermite\Data\lambda\100W\4
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.040000
+     Mass balance residual: -0.000
+Time = 0.080001
+     Mass balance residual: -0.000
+Time = 0.093737
+     Mass balance residual: -0.000
+Time = 0.120000
+     Mass balance residual: -0.000
+Time = 0.120001
+     Mass balance residual: -0.000
+Time = 0.160001
+     Mass balance residual: -0.000
+Time = 0.200000
+     Mass balance residual: -0.002
+Time = 0.240000
+     Mass balance residual: -0.006
+Time = 0.241083
+     Mass balance residual: -0.006
+Time = 0.280000
+     Mass balance residual: -0.000
+Time = 0.280001
+     Mass balance residual: -0.013
+Time = 0.320001
+     Mass balance residual: -0.028
+Time = 0.360000
+     Mass balance residual: -0.000
+Time = 0.360001
+     Mass balance residual: -0.039
+Time = 0.400000
+     Mass balance residual: -0.051
+Time = 0.440001
+     Mass balance residual: -0.063
+Time = 0.480001
+     Mass balance residual: -0.075
+Time = 0.520000
+     Mass balance residual: -0.087
+Time = 0.560001
+     Mass balance residual: -0.100
+Post processing results:
+..\Nanothermite\Data\lambda\100W\4
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.040000
+     Mass balance residual: -0.000
+Time = 0.080001
+     Mass balance residual: -0.000
+Time = 0.120000
+     Mass balance residual: -0.000
+Time = 0.160001
+     Mass balance residual: -0.000
+Time = 0.200000
+     Mass balance residual: -0.002
+Time = 0.240000
+     Mass balance residual: -0.006
+Time = 0.241083
+     Mass balance residual: -0.006
+Time = 0.280001
+     Mass balance residual: -0.013
+Time = 0.320001
+     Mass balance residual: -0.028
+Time = 0.360001
+     Mass balance residual: -0.039
+Time = 0.400000
+     Mass balance residual: -0.051
+Time = 0.440001
+     Mass balance residual: -0.063
+Time = 0.480001
+     Mass balance residual: -0.075
+Time = 0.520000
+     Mass balance residual: -0.087
+Time = 0.560001
+     Mass balance residual: -0.100
+Time = 0.600000
+     Mass balance residual: -0.114
+Time = 0.640000
+     Mass balance residual: -0.127
+Time = 0.680001
+     Mass balance residual: -0.140
+Time = 0.720000
+     Mass balance residual: -0.154
+Time = 0.760001
+     Mass balance residual: -0.168
+Time = 0.800000
+     Mass balance residual: -0.182
+Max pressure: 290125870
+avg rho_g: 57.1212
+avg Darcy v: 0.4730
+Pe_y: 0.000000305733
+Da_y: 205142503.231598
+Burn rate: 59431.195551
+Ignition delay: 0.005747
