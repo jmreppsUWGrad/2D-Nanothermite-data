@@ -3,11 +3,7 @@ Post processing results:
 
 Time = 0.000000
      Mass balance residual: 0.000
-Time = 0.030000
-     Mass balance residual: -0.000
 Time = 0.036000
-     Mass balance residual: -0.000
-Time = 0.060000
      Mass balance residual: -0.000
 Time = 0.062401
      Mass balance residual: -0.000
@@ -50,8 +46,8 @@ Time = 0.684000
 Time = 0.720000
      Mass balance residual: -0.053
 Max pressure: 113547452
-avg rho_g: 44.2519
-avg Darcy v: 0.0407
+avg rho_g: 48.1615
+avg Darcy v: 0.0443
 Pe_y: 0.000000089972
 Da_y: 1072456616.498067
 Burn rate: 301559.887052
