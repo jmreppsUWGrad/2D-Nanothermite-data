@@ -1,0 +1,125 @@
+######################################################
+#             2D Heat Conduction Solver              #
+#              Created by J. Mark Epps               #
+#          Part of Masters Thesis at UW 2018-2020    #
+######################################################
+
+############### INPUT FILE #########################
+##########Input_file##################
+
+Settings:
+MPI_Processes:40
+MPI_arrangment:[[ 0  1  2  3]
+ [ 4  5  6  7]
+ [ 8  9 10 11]
+ [12 13 14 15]
+ [16 17 18 19]
+ [20 21 22 23]
+ [24 25 26 27]
+ [28 29 30 31]
+ [32 33 34 35]
+ [36 37 38 39]]
+Domain:Axisymmetric
+Length:0.001
+Width:0.006
+Nodes_x:224
+Nodes_y:1340
+Model:Species
+k_s:65.0
+k_model:Parallel
+Cv_s:eta,601,998
+rho_IC:1.33,5109
+Darcy_mu:1e-05
+Carmen_diam:1e-07
+Kozeny_const:72.0
+Porosity:0.7
+gas_constant:260.0
+diff_interpolation:Harmonic
+conv_interpolation:Linear
+Temperature_IC:293.0
+
+Meshing details:
+bias_type_x:None
+bias_size_x:0.003
+bias_type_y:None
+bias_size_y:1e-06
+
+Species info:
+Cv_g:O2,Temp
+Cp_g:O2,Temp
+k_g:65.0
+
+Source Terms:
+Source_Uniform:None
+Source_Kim:True
+Ea:48000.0
+A0:4890000.0
+dH:rho,2.78e6
+Ignition:10,40
+gas_gen:0.343
+
+Time advancement:
+Fo:0.01
+CFL:0.1
+dt:None
+total_time_steps:None
+total_time:0.0008
+Restart:None
+Time_Scheme:Explicit
+Convergence:0.0001
+Max_iterations:100
+Number_Data_Output:20
+Output_directory:nano/dc/100nm/4
+
+Boundary conditions:
+#bc_left_E:['F', 0.0, (0, 600)]
+bc_left_E:F,0.0,0,600
+#bc_right_E:['C', (5.0, 293.0), (0, 600)]
+bc_right_E:C,5.0,293.0,0,600
+#bc_south_E:['C', (5.0, 293.0), (0, 100)]
+bc_south_E:C,5.0,293.0,0,100
+#bc_north_E:['F', 400000000.0, (0, 45), 'C', (5.0, 293.0), (45, 224)]
+bc_north_E:F,400000000.0,0,45,C,5.0,293.0,45,224
+#bc_left_rad:None
+bc_left_rad:None
+#bc_right_rad:None
+bc_right_rad:None
+#bc_south_rad:None
+bc_south_rad:None
+#bc_north_rad:None
+bc_north_rad:None
+#bc_left_P:['none', 0.0, (0, 600)]
+bc_left_P:none,0.0,0,600
+#bc_right_P:['P', 101319.0, (0, 600)]
+bc_right_P:P,101319.0,0,600
+#bc_north_P:['P', 101319.0, (0, 100)]
+bc_north_P:P,101319.0,0,100
+#bc_south_P:['P', 101319.0, (0, 100)]
+bc_south_P:P,101319.0,0,100
+
+Wave speed [m/s] at t=0.040001 ms: 0 m/s
+Wave speed [m/s] at t=0.080001 ms: 0 m/s
+##bc_north_E_new:['C', (5.0, 293.0), (0, 600)]
+Wave speed [m/s] at t=0.120000 ms: inst-6.90, avg-5.14
+Wave speed [m/s] at t=0.160000 ms: inst-8.60, avg-6.67
+Wave speed [m/s] at t=0.200001 ms: inst-9.18, avg-7.57
+Wave speed [m/s] at t=0.240000 ms: inst-9.34, avg-8.11
+Wave speed [m/s] at t=0.280001 ms: inst-9.21, avg-8.42
+Wave speed [m/s] at t=0.320000 ms: inst-9.05, avg-8.57
+Wave speed [m/s] at t=0.360000 ms: inst-8.90, avg-8.65
+Wave speed [m/s] at t=0.400000 ms: inst-8.76, avg-8.67
+Wave speed [m/s] at t=0.440000 ms: inst-8.58, avg-8.67
+Wave speed [m/s] at t=0.480000 ms: inst-8.29, avg-8.65
+Wave speed [m/s] at t=0.520001 ms: inst-7.62, avg-8.57
+Wave speed [m/s] at t=0.560000 ms: inst-8.10, avg-8.48
+Wave speed [m/s] at t=0.600000 ms: inst-8.55, avg-8.48
+Wave speed [m/s] at t=0.640001 ms: inst-8.51, avg-8.48
+Wave speed [m/s] at t=0.680001 ms: inst-8.49, avg-8.48
+Wave speed [m/s] at t=0.720000 ms: inst-8.49, avg-8.48
+Wave speed [m/s] at t=0.760000 ms: inst-12.60, avg-8.53
+Wave speed [m/s] at t=0.800000 ms: inst-0.00, avg-8.63
+Final time step size: 0.001610 microseconds
+Ignition time: 0.088570 ms
+Solver time per 1000 time steps: 0.525515 min
+Number of time steps completed: 856023
+Average wave speed: 8.63 m/s
