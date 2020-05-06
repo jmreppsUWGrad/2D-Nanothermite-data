@@ -1,0 +1,241 @@
+######################################################
+#             2D Heat Conduction Solver              #
+#              Created by J. Mark Epps               #
+#          Part of Masters Thesis at UW 2018-2020    #
+######################################################
+
+Reading input file...
+################################
+Initializing geometry package...
+################################
+Initializing MPI and solver...
+################################
+Initializing domain...
+################################
+Saving input file to output directory...
+################################
+
+Saving data to numpy array files...
+Solving:
+Time step 100, Step size=0.0000019ms, Time elapsed=0.000000s;
+Time step 200, Step size=0.0000019ms, Time elapsed=0.000000s;
+Time step 300, Step size=0.0000019ms, Time elapsed=0.000001s;
+Time step 400, Step size=0.0000019ms, Time elapsed=0.000001s;
+Time step 500, Step size=0.0000019ms, Time elapsed=0.000001s;
+Time step 600, Step size=0.0000019ms, Time elapsed=0.000001s;
+Time step 700, Step size=0.0000019ms, Time elapsed=0.000001s;
+Time step 800, Step size=0.0000019ms, Time elapsed=0.000002s;
+Time step 900, Step size=0.0000019ms, Time elapsed=0.000002s;
+Time step 1000, Step size=0.0000019ms, Time elapsed=0.000002s;
+Time step 1100, Step size=0.0000019ms, Time elapsed=0.000002s;
+Time step 1200, Step size=0.0000019ms, Time elapsed=0.000002s;
+Time step 1300, Step size=0.0000019ms, Time elapsed=0.000002s;
+Time step 1400, Step size=0.0000019ms, Time elapsed=0.000003s;
+Time step 1500, Step size=0.0000019ms, Time elapsed=0.000003s;
+Time step 1600, Step size=0.0000019ms, Time elapsed=0.000003s;
+Time step 1700, Step size=0.0000019ms, Time elapsed=0.000003s;
+Time step 1800, Step size=0.0000019ms, Time elapsed=0.000003s;
+Time step 1900, Step size=0.0000019ms, Time elapsed=0.000004s;
+Time step 2000, Step size=0.0000019ms, Time elapsed=0.000004s;
+Time step 2100, Step size=0.0000019ms, Time elapsed=0.000004s;
+Time step 2200, Step size=0.0000019ms, Time elapsed=0.000004s;
+Time step 2300, Step size=0.0000019ms, Time elapsed=0.000004s;
+Time step 2400, Step size=0.0000019ms, Time elapsed=0.000005s;
+Time step 2500, Step size=0.0000019ms, Time elapsed=0.000005s;
+Time step 2600, Step size=0.0000019ms, Time elapsed=0.000005s;
+Time step 2700, Step size=0.0000019ms, Time elapsed=0.000005s;
+Time step 2800, Step size=0.0000019ms, Time elapsed=0.000005s;
+Time step 2900, Step size=0.0000019ms, Time elapsed=0.000006s;
+Time step 3000, Step size=0.0000019ms, Time elapsed=0.000006s;
+Time step 3100, Step size=0.0000019ms, Time elapsed=0.000006s;
+Time step 3200, Step size=0.0000019ms, Time elapsed=0.000006s;
+Time step 3300, Step size=0.0000019ms, Time elapsed=0.000006s;
+Time step 3400, Step size=0.0000019ms, Time elapsed=0.000006s;
+Time step 3500, Step size=0.0000019ms, Time elapsed=0.000007s;
+Time step 3600, Step size=0.0000019ms, Time elapsed=0.000007s;
+Time step 3700, Step size=0.0000019ms, Time elapsed=0.000007s;
+Time step 3800, Step size=0.0000019ms, Time elapsed=0.000007s;
+Time step 3900, Step size=0.0000019ms, Time elapsed=0.000007s;
+Time step 4000, Step size=0.0000019ms, Time elapsed=0.000008s;
+Time step 4100, Step size=0.0000019ms, Time elapsed=0.000008s;
+Time step 4200, Step size=0.0000019ms, Time elapsed=0.000008s;
+Time step 4300, Step size=0.0000019ms, Time elapsed=0.000008s;
+Time step 4400, Step size=0.0000019ms, Time elapsed=0.000008s;
+Time step 4500, Step size=0.0000019ms, Time elapsed=0.000009s;
+Time step 4600, Step size=0.0000019ms, Time elapsed=0.000009s;
+Time step 4700, Step size=0.0000019ms, Time elapsed=0.000009s;
+Time step 4800, Step size=0.0000019ms, Time elapsed=0.000009s;
+Time step 4900, Step size=0.0000019ms, Time elapsed=0.000009s;
+Time step 5000, Step size=0.0000019ms, Time elapsed=0.000009s;
+Time step 5100, Step size=0.0000019ms, Time elapsed=0.000010s;
+Time step 5200, Step size=0.0000019ms, Time elapsed=0.000010s;
+Time step 5300, Step size=0.0000019ms, Time elapsed=0.000010s;
+Time step 5400, Step size=0.0000019ms, Time elapsed=0.000010s;
+Time step 5500, Step size=0.0000019ms, Time elapsed=0.000010s;
+Time step 5600, Step size=0.0000019ms, Time elapsed=0.000011s;
+Time step 5700, Step size=0.0000019ms, Time elapsed=0.000011s;
+Time step 5800, Step size=0.0000019ms, Time elapsed=0.000011s;
+Time step 5900, Step size=0.0000019ms, Time elapsed=0.000011s;
+Time step 6000, Step size=0.0000019ms, Time elapsed=0.000011s;
+Time step 6100, Step size=0.0000019ms, Time elapsed=0.000012s;
+Time step 6200, Step size=0.0000019ms, Time elapsed=0.000012s;
+Time step 6300, Step size=0.0000019ms, Time elapsed=0.000012s;
+Time step 6400, Step size=0.0000019ms, Time elapsed=0.000012s;
+Time step 6500, Step size=0.0000019ms, Time elapsed=0.000012s;
+Time step 6600, Step size=0.0000019ms, Time elapsed=0.000013s;
+Time step 6700, Step size=0.0000019ms, Time elapsed=0.000013s;
+Time step 6800, Step size=0.0000019ms, Time elapsed=0.000013s;
+Time step 6900, Step size=0.0000019ms, Time elapsed=0.000013s;
+Time step 7000, Step size=0.0000019ms, Time elapsed=0.000013s;
+Time step 7100, Step size=0.0000019ms, Time elapsed=0.000013s;
+Time step 7200, Step size=0.0000019ms, Time elapsed=0.000014s;
+Time step 7300, Step size=0.0000019ms, Time elapsed=0.000014s;
+Time step 7400, Step size=0.0000019ms, Time elapsed=0.000014s;
+Time step 7500, Step size=0.0000019ms, Time elapsed=0.000014s;
+Time step 7600, Step size=0.0000019ms, Time elapsed=0.000014s;
+Time step 7700, Step size=0.0000019ms, Time elapsed=0.000015s;
+Time step 7800, Step size=0.0000019ms, Time elapsed=0.000015s;
+Time step 7900, Step size=0.0000019ms, Time elapsed=0.000015s;
+Time step 8000, Step size=0.0000019ms, Time elapsed=0.000015s;
+Time step 8100, Step size=0.0000019ms, Time elapsed=0.000015s;
+Time step 8200, Step size=0.0000019ms, Time elapsed=0.000016s;
+Time step 8300, Step size=0.0000019ms, Time elapsed=0.000016s;
+Time step 8400, Step size=0.0000019ms, Time elapsed=0.000016s;
+Time step 8500, Step size=0.0000019ms, Time elapsed=0.000016s;
+Time step 8600, Step size=0.0000019ms, Time elapsed=0.000016s;
+Time step 8700, Step size=0.0000019ms, Time elapsed=0.000017s;
+Time step 8800, Step size=0.0000019ms, Time elapsed=0.000017s;
+Time step 8900, Step size=0.0000019ms, Time elapsed=0.000017s;
+Time step 9000, Step size=0.0000019ms, Time elapsed=0.000017s;
+Time step 9100, Step size=0.0000019ms, Time elapsed=0.000017s;
+Time step 9200, Step size=0.0000019ms, Time elapsed=0.000017s;
+Time step 9300, Step size=0.0000019ms, Time elapsed=0.000018s;
+Time step 9400, Step size=0.0000019ms, Time elapsed=0.000018s;
+Time step 9500, Step size=0.0000019ms, Time elapsed=0.000018s;
+Time step 9600, Step size=0.0000019ms, Time elapsed=0.000018s;
+Time step 9700, Step size=0.0000019ms, Time elapsed=0.000018s;
+Time step 9800, Step size=0.0000019ms, Time elapsed=0.000019s;
+Time step 9900, Step size=0.0000019ms, Time elapsed=0.000019s;
+Time step 10000, Step size=0.0000019ms, Time elapsed=0.000019s;
+Time step 10100, Step size=0.0000019ms, Time elapsed=0.000019s;
+Time step 10200, Step size=0.0000019ms, Time elapsed=0.000019s;
+Time step 10300, Step size=0.0000019ms, Time elapsed=0.000020s;
+Time step 10400, Step size=0.0000019ms, Time elapsed=0.000020s;
+Time step 10500, Step size=0.0000019ms, Time elapsed=0.000020s;
+Time step 10600, Step size=0.0000019ms, Time elapsed=0.000020s;
+Time step 10700, Step size=0.0000019ms, Time elapsed=0.000020s;
+Time step 10800, Step size=0.0000019ms, Time elapsed=0.000021s;
+Time step 10900, Step size=0.0000019ms, Time elapsed=0.000021s;
+Time step 11000, Step size=0.0000019ms, Time elapsed=0.000021s;
+Time step 11100, Step size=0.0000019ms, Time elapsed=0.000021s;
+Time step 11200, Step size=0.0000019ms, Time elapsed=0.000021s;
+Time step 11300, Step size=0.0000019ms, Time elapsed=0.000021s;
+Time step 11400, Step size=0.0000019ms, Time elapsed=0.000022s;
+Time step 11500, Step size=0.0000019ms, Time elapsed=0.000022s;
+Time step 11600, Step size=0.0000019ms, Time elapsed=0.000022s;
+Time step 11700, Step size=0.0000019ms, Time elapsed=0.000022s;
+Time step 11800, Step size=0.0000019ms, Time elapsed=0.000022s;
+Time step 11900, Step size=0.0000019ms, Time elapsed=0.000023s;
+Time step 12000, Step size=0.0000019ms, Time elapsed=0.000023s;
+Time step 12100, Step size=0.0000019ms, Time elapsed=0.000023s;
+Time step 12200, Step size=0.0000019ms, Time elapsed=0.000023s;
+Time step 12300, Step size=0.0000019ms, Time elapsed=0.000023s;
+Time step 12400, Step size=0.0000019ms, Time elapsed=0.000024s;
+Time step 12500, Step size=0.0000019ms, Time elapsed=0.000024s;
+Time step 12600, Step size=0.0000019ms, Time elapsed=0.000024s;
+Time step 12700, Step size=0.0000019ms, Time elapsed=0.000024s;
+Time step 12800, Step size=0.0000019ms, Time elapsed=0.000024s;
+Time step 12900, Step size=0.0000019ms, Time elapsed=0.000024s;
+Time step 13000, Step size=0.0000019ms, Time elapsed=0.000025s;
+Time step 13100, Step size=0.0000019ms, Time elapsed=0.000025s;
+Time step 13200, Step size=0.0000019ms, Time elapsed=0.000025s;
+Time step 13300, Step size=0.0000019ms, Time elapsed=0.000025s;
+Time step 13400, Step size=0.0000019ms, Time elapsed=0.000025s;
+Time step 13500, Step size=0.0000019ms, Time elapsed=0.000026s;
+Time step 13600, Step size=0.0000019ms, Time elapsed=0.000026s;
+Time step 13700, Step size=0.0000019ms, Time elapsed=0.000026s;
+Time step 13800, Step size=0.0000019ms, Time elapsed=0.000026s;
+Time step 13900, Step size=0.0000019ms, Time elapsed=0.000026s;
+Time step 14000, Step size=0.0000019ms, Time elapsed=0.000027s;
+Time step 14100, Step size=0.0000019ms, Time elapsed=0.000027s;
+Time step 14200, Step size=0.0000019ms, Time elapsed=0.000027s;
+Time step 14300, Step size=0.0000019ms, Time elapsed=0.000027s;
+Time step 14400, Step size=0.0000019ms, Time elapsed=0.000027s;
+Time step 14500, Step size=0.0000019ms, Time elapsed=0.000028s;
+Time step 14600, Step size=0.0000019ms, Time elapsed=0.000028s;
+Time step 14700, Step size=0.0000019ms, Time elapsed=0.000028s;
+Time step 14800, Step size=0.0000019ms, Time elapsed=0.000028s;
+Time step 14900, Step size=0.0000019ms, Time elapsed=0.000028s;
+Time step 15000, Step size=0.0000019ms, Time elapsed=0.000028s;
+Time step 15100, Step size=0.0000019ms, Time elapsed=0.000029s;
+Time step 15200, Step size=0.0000019ms, Time elapsed=0.000029s;
+Time step 15300, Step size=0.0000019ms, Time elapsed=0.000029s;
+Time step 15400, Step size=0.0000019ms, Time elapsed=0.000029s;
+Time step 15500, Step size=0.0000019ms, Time elapsed=0.000029s;
+Time step 15600, Step size=0.0000019ms, Time elapsed=0.000030s;
+Time step 15700, Step size=0.0000019ms, Time elapsed=0.000030s;
+Time step 15800, Step size=0.0000019ms, Time elapsed=0.000030s;
+Time step 15900, Step size=0.0000019ms, Time elapsed=0.000030s;
+Time step 16000, Step size=0.0000019ms, Time elapsed=0.000030s;
+Time step 16100, Step size=0.0000019ms, Time elapsed=0.000031s;
+Time step 16200, Step size=0.0000019ms, Time elapsed=0.000031s;
+Time step 16300, Step size=0.0000019ms, Time elapsed=0.000031s;
+Time step 16400, Step size=0.0000019ms, Time elapsed=0.000031s;
+Time step 16500, Step size=0.0000019ms, Time elapsed=0.000031s;
+Time step 16600, Step size=0.0000019ms, Time elapsed=0.000032s;
+Time step 16700, Step size=0.0000019ms, Time elapsed=0.000032s;
+Time step 16800, Step size=0.0000019ms, Time elapsed=0.000032s;
+Time step 16900, Step size=0.0000019ms, Time elapsed=0.000032s;
+Time step 17000, Step size=0.0000019ms, Time elapsed=0.000032s;
+Time step 17100, Step size=0.0000019ms, Time elapsed=0.000032s;
+Time step 17200, Step size=0.0000019ms, Time elapsed=0.000033s;
+Time step 17300, Step size=0.0000019ms, Time elapsed=0.000033s;
+Time step 17400, Step size=0.0000019ms, Time elapsed=0.000033s;
+Time step 17500, Step size=0.0000019ms, Time elapsed=0.000033s;
+Time step 17600, Step size=0.0000019ms, Time elapsed=0.000033s;
+Time step 17700, Step size=0.0000019ms, Time elapsed=0.000034s;
+Time step 17800, Step size=0.0000019ms, Time elapsed=0.000034s;
+Time step 17900, Step size=0.0000019ms, Time elapsed=0.000034s;
+Time step 18000, Step size=0.0000019ms, Time elapsed=0.000034s;
+Time step 18100, Step size=0.0000019ms, Time elapsed=0.000034s;
+Time step 18200, Step size=0.0000019ms, Time elapsed=0.000035s;
+Time step 18300, Step size=0.0000019ms, Time elapsed=0.000035s;
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 3155976.0 ON nia0225 CANCELLED AT 2020-05-02T18:34:36 ***
+slurmstepd: error: *** JOB 3155976 ON nia0225 CANCELLED AT 2020-05-02T18:34:36 ***
+
+scontrol show jobid 3155976
+JobId=3155976 JobName=jmre_80kJ_3a
+   UserId=jmrepps(3075104) GroupId=jphickey(6004287) MCS_label=N/A
+   Priority=1201910 Nice=0 Account=rrg-jphickey QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:15
+   RunTime=00:03:43 TimeLimit=13:00:00 TimeMin=N/A
+   SubmitTime=2020-05-02T18:30:48 EligibleTime=2020-05-02T18:30:48
+   AccrueTime=2020-05-02T18:30:48
+   StartTime=2020-05-02T18:30:53 EndTime=2020-05-02T18:34:36 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2020-05-02T18:30:53
+   Partition=compute AllocNode:Sid=nia-login07:15425
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia0225
+   BatchHost=nia0225
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/Slurm_run_4a.sh
+   WorkDir=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code
+   StdErr=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/80kJ_3a.txt
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/80kJ_3a.txt
+   Power=
+
+sacct -j 3155976
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+3155976      jmre_80kJ+ rrg-jphic+   00:03:43                        00:25.417   02:16:40      0:0 
+3155976.bat+      batch rrg-jphic+   00:03:44    596928K     11312K  00:00.242  00:00.293     0:15 
+3155976.ext+     extern rrg-jphic+   00:03:43    137128K       808K   00:00:00   00:00:00      0:0 
+3155976.0     pmi_proxy rrg-jphic+   00:03:41  41286452K   3106996K  00:25.174   02:16:40      7:0 

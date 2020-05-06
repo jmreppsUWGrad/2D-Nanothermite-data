@@ -1,0 +1,36 @@
+
+scontrol show jobid 3101083
+JobId=3101083 JobName=jmre_base5
+   UserId=jmrepps(3075104) GroupId=jphickey(6004287) MCS_label=N/A
+   Priority=1113479 Nice=0 Account=rrg-jphickey QOS=normal
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=08:27:33 TimeLimit=09:00:00 TimeMin=N/A
+   SubmitTime=2020-04-28T10:39:52 EligibleTime=2020-04-28T10:39:52
+   AccrueTime=2020-04-28T10:39:52
+   StartTime=2020-04-28T10:42:48 EndTime=2020-04-28T19:10:21 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2020-04-28T10:42:48
+   Partition=compute AllocNode:Sid=nia-login03:85180
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia0786
+   BatchHost=nia0786
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/Slurm_run_3.sh
+   WorkDir=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code
+   StdErr=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/base_5.txt
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/base_5.txt
+   Power=
+
+sacct -j 3101083
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+3101083      jmre_base5 rrg-jphic+   08:27:36                         00:00:00   00:00:00      0:0 
+3101083.bat+      batch rrg-jphic+   08:27:36                         00:00:00   00:00:00      0:0 
+3101083.ext+     extern rrg-jphic+   08:27:36                         00:00:00   00:00:00      0:0 
+3101083.0     pmi_proxy rrg-jphic+   08:27:31                         00:00:00   00:00:00      0:0 

@@ -1,0 +1,82 @@
+######################################################
+#             2D Heat Conduction Solver              #
+#              Created by J. Mark Epps               #
+#          Part of Masters Thesis at UW 2018-2020    #
+######################################################
+
+Reading input file...
+################################
+Initializing geometry package...
+################################
+Initializing MPI and solver...
+################################
+Initializing domain...
+################################
+Saving input file to output directory...
+################################
+
+Saving data to numpy array files...
+Solving:
+Ignition occurred at t=0.002936 ms
+Time step 100, Step size=0.0000309ms, Time elapsed=0.000003s;
+Time step 200, Step size=0.0000309ms, Time elapsed=0.000006s;
+Time step 300, Step size=0.0000309ms, Time elapsed=0.000009s;
+Time step 400, Step size=0.0000309ms, Time elapsed=0.000012s;
+Time step 500, Step size=0.0000309ms, Time elapsed=0.000015s;
+Time step 600, Step size=0.0000168ms, Time elapsed=0.000017s;
+Time step 700, Step size=0.0000149ms, Time elapsed=0.000019s;
+Time step 800, Step size=0.0000134ms, Time elapsed=0.000020s;
+Time step 900, Step size=0.0000118ms, Time elapsed=0.000022s;
+Time step 1000, Step size=0.0000114ms, Time elapsed=0.000023s;
+Time step 1100, Step size=0.0000107ms, Time elapsed=0.000024s;
+Time step 1200, Step size=0.0000098ms, Time elapsed=0.000025s;
+Time step 1300, Step size=0.0000097ms, Time elapsed=0.000026s;
+Time step 1400, Step size=0.0000094ms, Time elapsed=0.000027s;
+Time step 1500, Step size=0.0000089ms, Time elapsed=0.000028s;
+Time step 1600, Step size=0.0000088ms, Time elapsed=0.000029s;
+Time step 1700, Step size=0.0000087ms, Time elapsed=0.000030s;
+Time step 1800, Step size=0.0000082ms, Time elapsed=0.000030s;
+Time step 1900, Step size=0.0000077ms, Time elapsed=0.000031s;
+Time step 2000, Step size=0.0000076ms, Time elapsed=0.000032s;
+Time step 2100, Step size=0.0000076ms, Time elapsed=0.000033s;
+Time step 2200, Step size=0.0000074ms, Time elapsed=0.000034s;
+Time step 2300, Step size=0.0000076ms, Time elapsed=0.000034s;
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 3149761.0 ON nia0970 CANCELLED AT 2020-05-01T20:45:46 ***
+slurmstepd: error: *** JOB 3149761 ON nia0970 CANCELLED AT 2020-05-01T20:45:46 ***
+
+scontrol show jobid 3149761
+JobId=3149761 JobName=jmre_4Pa_5
+   UserId=jmrepps(3075104) GroupId=jphickey(6004287) MCS_label=N/A
+   Priority=1264327 Nice=0 Account=rrg-jphickey QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:15
+   RunTime=00:01:23 TimeLimit=12:00:00 TimeMin=N/A
+   SubmitTime=2020-05-01T20:43:01 EligibleTime=2020-05-01T20:43:01
+   AccrueTime=2020-05-01T20:43:01
+   StartTime=2020-05-01T20:44:23 EndTime=2020-05-01T20:45:46 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2020-05-01T20:44:23
+   Partition=compute AllocNode:Sid=nia-login05:176883
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia0970
+   BatchHost=nia0970
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/Slurm_run_6.sh
+   WorkDir=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code
+   StdErr=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/4Pa_5.txt
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/4Pa_5.txt
+   Power=
+
+sacct -j 3149761
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+3149761      jmre_4Pa_5 rrg-jphic+   00:01:23                        01:25.347  33:33.359      0:0 
+3149761.bat+      batch rrg-jphic+   00:01:24    596932K     11328K  00:00.216  00:00.309     0:15 
+3149761.ext+     extern rrg-jphic+   00:01:24    137128K       996K   00:00:00   00:00:00      0:0 
+3149761.0     pmi_proxy rrg-jphic+   00:01:24  41496884K   3824556K  01:25.130  33:33.050      7:0 

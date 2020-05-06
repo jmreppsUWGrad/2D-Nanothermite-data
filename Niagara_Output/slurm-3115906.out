@@ -1,0 +1,32 @@
+
+scontrol show jobid 3115906
+JobId=3115906 JobName=debugjob-1-jmrepps
+   UserId=jmrepps(3075104) GroupId=jphickey(6004287) MCS_label=N/A
+   Priority=11247236 Nice=0 Account=rrg-jphickey QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=0 Reboot=0 ExitCode=0:0
+   RunTime=00:26:30 TimeLimit=01:00:00 TimeMin=N/A
+   SubmitTime=2020-04-29T13:07:58 EligibleTime=2020-04-29T13:07:58
+   AccrueTime=2020-04-29T13:07:58
+   StartTime=2020-04-29T13:08:03 EndTime=2020-04-29T13:34:33 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2020-04-29T13:08:03
+   Partition=debug AllocNode:Sid=nia-login02:140360
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia0354
+   BatchHost=nia0354
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=(null)
+   WorkDir=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code
+   Power=
+
+sacct -j 3115906
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+3115906      debugjob-+ rrg-jphic+   00:26:30                        00:41.387   17:08:59      0:0 
+3115906.ext+     extern rrg-jphic+   00:26:30    137132K      1712K  00:00.036  00:00.047      0:0 
+3115906.0          bash rrg-jphic+   00:26:25  41560180K   3285.50M  00:41.350   17:08:59      0:0 

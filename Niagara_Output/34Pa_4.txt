@@ -1,0 +1,37 @@
+
+scontrol show jobid 3113327
+JobId=3113327 JobName=jmre_34Pa4
+   UserId=jmrepps(3075104) GroupId=jphickey(6004287) MCS_label=N/A
+   Priority=1235769 Nice=0 Account=rrg-jphickey QOS=normal
+   JobState=COMPLETING Reason=TimeLimit Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:15
+   RunTime=06:00:01 TimeLimit=06:00:00 TimeMin=N/A
+   SubmitTime=2020-04-29T11:13:33 EligibleTime=2020-04-29T11:13:33
+   AccrueTime=2020-04-29T11:13:33
+   StartTime=2020-04-29T11:13:56 EndTime=2020-04-29T17:13:57 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2020-04-29T11:13:56
+   Partition=compute AllocNode:Sid=nia-login07:239441
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia1121
+   BatchHost=nia1121
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/Slurm_run_2.sh
+   WorkDir=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code
+   StdErr=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/34Pa_4.txt
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/j/jphickey/jmrepps/Code/34Pa_4.txt
+   Power=
+
+sacct -j 3113327
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+3113327      jmre_34Pa4 rrg-jphic+   06:00:01                         03:25:31 9-19:34:58      0:0 
+3113327.bat+      batch rrg-jphic+   06:00:03   1080276K     20788K  00:01.231  00:00.290     0:15 
+3113327.ext+     extern rrg-jphic+   06:00:02    137128K       808K   00:00:00   00:00:00      0:0 
+3113327.0     pmi_proxy rrg-jphic+   06:00:03  16001296K   1577980K   01:39:56 4-21:50:17      7:0 
+3113327.1     pmi_proxy rrg-jphic+   06:00:03  16001744K   1580400K   01:45:34 4-21:44:41      7:0 
