@@ -1,6 +1,6 @@
 # Al/CuO Nanothermite Simulation Results
 
-This repository contains the Al/CuO nanothermite simulation results using the code contained in jmreppsUWGrad/2D_Nanothermite
+This repository contains the Al/CuO nanothermite simulation results using the code contained in jmreppsUWGrad/2D-Nanothermite
 
 ## Folder: 6e4
 - Results when using 60000 grid points
