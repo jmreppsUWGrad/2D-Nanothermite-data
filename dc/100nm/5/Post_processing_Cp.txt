@@ -1,0 +1,55 @@
+Post processing results:
+..\..\Nanothermite\Data\dc\100nm\5
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.020000
+     Mass balance residual: -0.000
+Time = 0.040000
+     Mass balance residual: -0.000
+Time = 0.060000
+     Mass balance residual: -0.000
+Time = 0.064933
+     Mass balance residual: -0.000
+Time = 0.080000
+     Mass balance residual: -0.001
+Time = 0.100000
+     Mass balance residual: -0.005
+Time = 0.120000
+     Mass balance residual: -0.011
+Time = 0.140000
+     Mass balance residual: -0.027
+Time = 0.160000
+     Mass balance residual: -0.044
+Time = 0.180000
+     Mass balance residual: -0.060
+Time = 0.200000
+     Mass balance residual: -0.075
+Time = 0.220000
+     Mass balance residual: -0.089
+Time = 0.240000
+     Mass balance residual: -0.104
+Time = 0.260000
+     Mass balance residual: -0.119
+Time = 0.280000
+     Mass balance residual: -0.135
+Time = 0.300000
+     Mass balance residual: -0.150
+Time = 0.320000
+     Mass balance residual: -0.165
+Time = 0.340000
+     Mass balance residual: -0.180
+Time = 0.360000
+     Mass balance residual: -0.195
+Time = 0.380000
+     Mass balance residual: -0.210
+Time = 0.400000
+     Mass balance residual: -0.225
+Max pressure: 25126166
+avg rho_g: 7.7641
+avg Darcy v: 21.7070
+u_ref: 0.017098593750
+Pe_y: 0.000267728542
+Da_y: 1715930.586397
+Burn rate: 896.564959
+Ignition delay: 0.185044

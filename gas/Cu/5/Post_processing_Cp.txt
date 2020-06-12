@@ -1,0 +1,55 @@
+Post processing results:
+..\..\Nanothermite\Data\gas\Cu\5
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.025000
+     Mass balance residual: -0.000
+Time = 0.050000
+     Mass balance residual: -0.000
+Time = 0.057586
+     Mass balance residual: -0.000
+Time = 0.075000
+     Mass balance residual: -0.001
+Time = 0.100000
+     Mass balance residual: -0.005
+Time = 0.125000
+     Mass balance residual: -0.010
+Time = 0.150000
+     Mass balance residual: -0.024
+Time = 0.175000
+     Mass balance residual: -0.036
+Time = 0.200000
+     Mass balance residual: -0.048
+Time = 0.225000
+     Mass balance residual: -0.060
+Time = 0.250000
+     Mass balance residual: -0.072
+Time = 0.275000
+     Mass balance residual: -0.084
+Time = 0.300000
+     Mass balance residual: -0.097
+Time = 0.325000
+     Mass balance residual: -0.110
+Time = 0.350000
+     Mass balance residual: -0.124
+Time = 0.375000
+     Mass balance residual: -0.137
+Time = 0.400000
+     Mass balance residual: -0.151
+Time = 0.425000
+     Mass balance residual: -0.165
+Time = 0.450000
+     Mass balance residual: -0.179
+Time = 0.475000
+     Mass balance residual: -0.193
+Time = 0.500000
+     Mass balance residual: -0.207
+Max pressure: 32574488
+avg rho_g: 18.1770
+avg Darcy v: 1.0677
+u_ref: 0.002735775000
+Pe_y: 0.000026334081
+Da_y: 10724566.164981
+Burn rate: 4506.949585
+Ignition delay: 0.026257

@@ -1,0 +1,1087 @@
+Post processing results:
+..\..\Nanothermite\Data\1_base\5
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.025000
+     Mass balance residual: -0.000
+Time = 0.050000
+     Mass balance residual: -0.000
+Time = 0.065136
+     Mass balance residual: -0.000
+Time = 0.075000
+     Mass balance residual: -0.001
+Time = 0.100000
+     Mass balance residual: -0.003
+Time = 0.125000
+     Mass balance residual: -0.009
+Time = 0.150000
+     Mass balance residual: -0.021
+Time = 0.175000
+     Mass balance residual: -0.037
+Time = 0.200000
+     Mass balance residual: -0.051
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Time = 0.300000
+     Mass balance residual: -0.109
+Time = 0.325000
+     Mass balance residual: -0.123
+Time = 0.350000
+     Mass balance residual: -0.138
+Time = 0.375000
+     Mass balance residual: -0.153
+Time = 0.400000
+     Mass balance residual: -0.168
+Time = 0.425000
+     Mass balance residual: -0.184
+Time = 0.450000
+     Mass balance residual: -0.199
+Time = 0.475000
+     Mass balance residual: -0.214
+Time = 0.500000
+     Mass balance residual: -0.235
+Max pressure: 45483257
+avg rho_g: 14.2109
+avg Darcy v: 1.4928
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+     Max velocity u: 291.2
+     Max velocity v: 63.3
+Time = 0.250000
+     Mass balance residual: -0.079
+     Max velocity u: 288.2
+     Max velocity v: 53.4
+Time = 0.275000
+     Mass balance residual: -0.094
+     Max velocity u: 286.3
+     Max velocity v: 45.8
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Max pressure: 43850794
+avg rho_g: 18.3888
+avg Darcy v: 2.0494
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.025000
+     Mass balance residual: -0.000
+Time = 0.050000
+     Mass balance residual: -0.000
+Time = 0.065136
+     Mass balance residual: -0.000
+Time = 0.075000
+     Mass balance residual: -0.001
+Time = 0.100000
+     Mass balance residual: -0.003
+Time = 0.125000
+     Mass balance residual: -0.009
+Time = 0.150000
+     Mass balance residual: -0.021
+Time = 0.175000
+     Mass balance residual: -0.037
+Time = 0.200000
+     Mass balance residual: -0.051
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Time = 0.300000
+     Mass balance residual: -0.109
+Time = 0.325000
+     Mass balance residual: -0.123
+Time = 0.350000
+     Mass balance residual: -0.138
+Time = 0.375000
+     Mass balance residual: -0.153
+Time = 0.400000
+     Mass balance residual: -0.168
+Time = 0.425000
+     Mass balance residual: -0.184
+Time = 0.450000
+     Mass balance residual: -0.199
+Time = 0.475000
+     Mass balance residual: -0.214
+Time = 0.500000
+     Mass balance residual: -0.235
+Max pressure: 45483257
+avg rho_g: 14.2109
+avg Darcy v: 1.4928
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.025000
+     Mass balance residual: -0.000
+Time = 0.050000
+     Mass balance residual: -0.000
+Time = 0.065136
+     Mass balance residual: -0.000
+Time = 0.075000
+     Mass balance residual: -0.001
+Time = 0.100000
+     Mass balance residual: -0.003
+Time = 0.125000
+     Mass balance residual: -0.009
+Time = 0.150000
+     Mass balance residual: -0.021
+Time = 0.175000
+     Mass balance residual: -0.037
+Time = 0.200000
+     Mass balance residual: -0.051
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Time = 0.300000
+     Mass balance residual: -0.109
+Time = 0.325000
+     Mass balance residual: -0.123
+Time = 0.350000
+     Mass balance residual: -0.138
+Time = 0.375000
+     Mass balance residual: -0.153
+Time = 0.400000
+     Mass balance residual: -0.168
+Time = 0.425000
+     Mass balance residual: -0.184
+Time = 0.450000
+     Mass balance residual: -0.199
+Time = 0.475000
+     Mass balance residual: -0.214
+Time = 0.500000
+     Mass balance residual: -0.235
+Max pressure: 45483257
+avg rho_g: 14.2109
+avg Darcy v: 1.4928
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
+Post processing results:
+..\Nanothermite\Data\1_base\5
+
+Time = 0.000000
+     Mass balance residual: 0.000
+Time = 0.025000
+     Mass balance residual: -0.000
+Time = 0.050000
+     Mass balance residual: -0.000
+Time = 0.065136
+     Mass balance residual: -0.000
+Time = 0.075000
+     Mass balance residual: -0.001
+Time = 0.100000
+     Mass balance residual: -0.003
+Time = 0.125000
+     Mass balance residual: -0.009
+Time = 0.150000
+     Mass balance residual: -0.021
+Time = 0.175000
+     Mass balance residual: -0.037
+Time = 0.200000
+     Mass balance residual: -0.051
+Time = 0.225000
+     Mass balance residual: -0.065
+Time = 0.250000
+     Mass balance residual: -0.079
+Time = 0.275000
+     Mass balance residual: -0.094
+Time = 0.300000
+     Mass balance residual: -0.109
+Time = 0.325000
+     Mass balance residual: -0.123
+Time = 0.350000
+     Mass balance residual: -0.138
+Time = 0.375000
+     Mass balance residual: -0.153
+Time = 0.400000
+     Mass balance residual: -0.168
+Time = 0.425000
+     Mass balance residual: -0.184
+Time = 0.450000
+     Mass balance residual: -0.199
+Time = 0.475000
+     Mass balance residual: -0.214
+Time = 0.500000
+     Mass balance residual: -0.235
+Max pressure: 45483257
+avg rho_g: 14.2109
+avg Darcy v: 1.4928
+u_ref: 0.002735775000
+Pe_y: 0.000042836567
+Da_y: 10724566.164981
+Burn rate: 4759.163308
+Ignition delay: 0.029700
